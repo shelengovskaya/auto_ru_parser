@@ -1,0 +1,2122 @@
+{
+    "AC": {
+        "brand_median_price_by_years": {
+            "2001": 2000000
+        },
+        "brand_quart75_price": 2000000,
+        "models": {
+            "Cobra": {
+                "model_quart75_price": 2000000,
+                "model_median_price_by_years": {
+                    "2001": 2000000
+                }
+            }
+        }
+    },
+    "Acura": {
+        "brand_median_price_by_years": {
+            "2012": 1600000,
+            "2013": 3100000
+        },
+        "brand_quart75_price": 2725000,
+        "models": {
+            "ZDX": {
+                "model_quart75_price": 2725000,
+                "model_median_price_by_years": {
+                    "2012": 1600000,
+                    "2013": 3100000
+                }
+            }
+        }
+    },
+    "Alpina": {
+        "brand_median_price_by_years": {
+            "2013": 3445000
+        },
+        "brand_quart75_price": 3522500,
+        "models": {
+            "XD3": {
+                "model_quart75_price": 3522500,
+                "model_median_price_by_years": {
+                    "2013": 3445000
+                }
+            }
+        }
+    },
+    "AMC": {
+        "brand_median_price_by_years": {
+            "1981": 1145000,
+            "1984": 666000
+        },
+        "brand_quart75_price": 1145000,
+        "models": {
+            "Eagle": {
+                "model_quart75_price": 1145000,
+                "model_median_price_by_years": {
+                    "1981": 1145000,
+                    "1984": 666000
+                }
+            }
+        }
+    },
+    "Ariel": {
+        "brand_median_price_by_years": {
+            "2006": 4750000
+        },
+        "brand_quart75_price": 4750000,
+        "models": {
+            "Atom": {
+                "model_quart75_price": 4750000,
+                "model_median_price_by_years": {
+                    "2006": 4750000
+                }
+            }
+        }
+    },
+    "Aro": {
+        "brand_median_price_by_years": {
+            "1987": 135000
+        },
+        "brand_quart75_price": 135000,
+        "models": {
+            "24": {
+                "model_quart75_price": 135000,
+                "model_median_price_by_years": {
+                    "1987": 135000
+                }
+            }
+        }
+    },
+    "Aston Martin": {
+        "brand_median_price_by_years": {
+            "2021": 17200000,
+            "1999": 56000000
+        },
+        "brand_quart75_price": 46300000,
+        "models": {
+            "V8 Vantage": {
+                "model_quart75_price": 46300000,
+                "model_median_price_by_years": {
+                    "2021": 17200000,
+                    "1999": 56000000
+                }
+            }
+        }
+    },
+    "Auburn": {
+        "brand_median_price_by_years": {
+            "1935": 7990000
+        },
+        "brand_quart75_price": 7990000,
+        "models": {
+            "Speedster": {
+                "model_quart75_price": 7990000,
+                "model_median_price_by_years": {
+                    "1935": 7990000
+                }
+            }
+        }
+    },
+    "Aurus": {
+        "brand_median_price_by_years": {
+            "2021": 24000000
+        },
+        "brand_quart75_price": 24000000,
+        "models": {
+            "Senat": {
+                "model_quart75_price": 24000000,
+                "model_median_price_by_years": {
+                    "2021": 24000000
+                }
+            }
+        }
+    },
+    "BAIC": {
+        "brand_median_price_by_years": {
+            "2019": 2050000
+        },
+        "brand_quart75_price": 2050000,
+        "models": {
+            "EU5": {
+                "model_quart75_price": 2050000,
+                "model_median_price_by_years": {
+                    "2019": 2050000
+                }
+            }
+        }
+    },
+    "Bentley": {
+        "brand_median_price_by_years": {
+            "1997": 6000000
+        },
+        "brand_quart75_price": 6000000,
+        "models": {
+            "Turbo R": {
+                "model_quart75_price": 6000000,
+                "model_median_price_by_years": {
+                    "1997": 6000000
+                }
+            }
+        }
+    },
+    "BMW": {
+        "brand_median_price_by_years": {
+            "2009": 2275000,
+            "2013": 2499500,
+            "2014": 2950000,
+            "2012": 3200000,
+            "2007": 1900000,
+            "2008": 1210000,
+            "2006": 1250000,
+            "2010": 2300000,
+            "2011": 2800000
+        },
+        "brand_quart75_price": 2750000,
+        "models": {
+            "Z4": {
+                "model_quart75_price": 2750000,
+                "model_median_price_by_years": {
+                    "2009": 2275000,
+                    "2013": 2499500,
+                    "2014": 2950000,
+                    "2012": 3200000,
+                    "2007": 1900000,
+                    "2008": 1210000,
+                    "2006": 1250000,
+                    "2010": 2300000,
+                    "2011": 2800000
+                }
+            }
+        }
+    },
+    "Borgward": {
+        "brand_median_price_by_years": {
+            "1939": 25000000
+        },
+        "brand_quart75_price": 25000000,
+        "models": {
+            "2000": {
+                "model_quart75_price": 25000000,
+                "model_median_price_by_years": {
+                    "1939": 25000000
+                }
+            }
+        }
+    },
+    "Brabus": {
+        "brand_median_price_by_years": {
+            "2009": 6000000
+        },
+        "brand_quart75_price": 6000000,
+        "models": {
+            "SV12": {
+                "model_quart75_price": 6000000,
+                "model_median_price_by_years": {
+                    "2009": 6000000
+                }
+            }
+        }
+    },
+    "Brilliance": {
+        "brand_median_price_by_years": {
+            "2014": 600000,
+            "2017": 950000
+        },
+        "brand_quart75_price": 800000,
+        "models": {
+            "V5": {
+                "model_quart75_price": 800000,
+                "model_median_price_by_years": {
+                    "2014": 600000,
+                    "2017": 950000
+                }
+            }
+        }
+    },
+    "Buick": {
+        "brand_median_price_by_years": {
+            "1965": 5500000
+        },
+        "brand_quart75_price": 5500000,
+        "models": {
+            "Wildcat": {
+                "model_quart75_price": 5500000,
+                "model_median_price_by_years": {
+                    "1965": 5500000
+                }
+            }
+        }
+    },
+    "BYD": {
+        "brand_median_price_by_years": {
+            "2018": 1450000
+        },
+        "brand_quart75_price": 1450000,
+        "models": {
+            "Yuan": {
+                "model_quart75_price": 1450000,
+                "model_median_price_by_years": {
+                    "2018": 1450000
+                }
+            }
+        }
+    },
+    "Changan": {
+        "brand_median_price_by_years": {
+            "2014": 935000
+        },
+        "brand_quart75_price": 935000,
+        "models": {
+            "Raeton": {
+                "model_quart75_price": 935000,
+                "model_median_price_by_years": {
+                    "2014": 935000
+                }
+            }
+        }
+    },
+    "Chery": {
+        "brand_median_price_by_years": {
+            "2012": 194500,
+            "2011": 165000
+        },
+        "brand_quart75_price": 207500,
+        "models": {
+            "Very (A13)": {
+                "model_quart75_price": 207500,
+                "model_median_price_by_years": {
+                    "2012": 194500,
+                    "2011": 165000
+                }
+            }
+        }
+    },
+    "CHERYEXEED": {
+        "brand_median_price_by_years": {
+            "2020": 2249950,
+            "2021": 2229900
+        },
+        "brand_quart75_price": 2415736,
+        "models": {
+            "TXL": {
+                "model_quart75_price": 2415736,
+                "model_median_price_by_years": {
+                    "2020": 2249950,
+                    "2021": 2229900
+                }
+            }
+        }
+    },
+    "Chevrolet": {
+        "brand_median_price_by_years": {
+            "2012": 1014500,
+            "2011": 920000,
+            "2014": 1217500,
+            "2018": 1890000,
+            "2016": 1400000,
+            "2013": 980000
+        },
+        "brand_quart75_price": 1336250,
+        "models": {
+            "Volt": {
+                "model_quart75_price": 1336250,
+                "model_median_price_by_years": {
+                    "2012": 1014500,
+                    "2011": 920000,
+                    "2014": 1217500,
+                    "2018": 1890000,
+                    "2016": 1400000,
+                    "2013": 980000
+                }
+            }
+        }
+    },
+    "Chrysler": {
+        "brand_median_price_by_years": {
+            "2014": 1765000,
+            "2013": 1950000,
+            "2008": 1084999,
+            "2003": 350000,
+            "2002": 270000,
+            "2007": 583500,
+            "2004": 449999,
+            "2000": 235000,
+            "2001": 239000,
+            "1996": 235000,
+            "1999": 235000,
+            "1992": 85000,
+            "1995": 170000
+        },
+        "brand_quart75_price": 500249,
+        "models": {
+            "Voyager": {
+                "model_quart75_price": 500249,
+                "model_median_price_by_years": {
+                    "2014": 1765000,
+                    "2013": 1950000,
+                    "2008": 1084999,
+                    "2003": 350000,
+                    "2002": 270000,
+                    "2007": 583500,
+                    "2004": 449999,
+                    "2000": 235000,
+                    "2001": 239000,
+                    "1996": 235000,
+                    "1999": 235000,
+                    "1992": 85000,
+                    "1995": 170000
+                }
+            }
+        }
+    },
+    "Dadi": {
+        "brand_median_price_by_years": {
+            "2007": 110000
+        },
+        "brand_quart75_price": 110000,
+        "models": {
+            "Smoothing": {
+                "model_quart75_price": 110000,
+                "model_median_price_by_years": {
+                    "2007": 110000
+                }
+            }
+        }
+    },
+    "Daewoo": {
+        "brand_median_price_by_years": {
+            "2007": 600000,
+            "2008": 660000
+        },
+        "brand_quart75_price": 645000,
+        "models": {
+            "Winstorm": {
+                "model_quart75_price": 645000,
+                "model_median_price_by_years": {
+                    "2007": 600000,
+                    "2008": 660000
+                }
+            }
+        }
+    },
+    "Daihatsu": {
+        "brand_median_price_by_years": {
+            "2002": 175000
+        },
+        "brand_quart75_price": 180000,
+        "models": {
+            "YRV": {
+                "model_quart75_price": 180000,
+                "model_median_price_by_years": {
+                    "2002": 175000
+                }
+            }
+        }
+    },
+    "DKW": {
+        "brand_median_price_by_years": {
+            "1954": 1500000
+        },
+        "brand_quart75_price": 1500000,
+        "models": {
+            "3=6": {
+                "model_quart75_price": 1500000,
+                "model_median_price_by_years": {
+                    "1954": 1500000
+                }
+            }
+        }
+    },
+    "DongFeng": {
+        "brand_median_price_by_years": {
+            "2015": 460000
+        },
+        "brand_quart75_price": 460000,
+        "models": {
+            "S30": {
+                "model_quart75_price": 460000,
+                "model_median_price_by_years": {
+                    "2015": 460000
+                }
+            }
+        }
+    },
+    "Doninvest": {
+        "brand_median_price_by_years": {
+            "1999": 50000
+        },
+        "brand_quart75_price": 50000,
+        "models": {
+            "Orion": {
+                "model_quart75_price": 50000,
+                "model_median_price_by_years": {
+                    "1999": 50000
+                }
+            }
+        }
+    },
+    "DW Hower": {
+        "brand_median_price_by_years": {
+            "2018": 1325000,
+            "2017": 1007065
+        },
+        "brand_quart75_price": 1245516,
+        "models": {
+            "H3": {
+                "model_quart75_price": 1245516,
+                "model_median_price_by_years": {
+                    "2018": 1325000,
+                    "2017": 1007065
+                }
+            }
+        }
+    },
+    "Eagle": {
+        "brand_median_price_by_years": {
+            "1992": 500000
+        },
+        "brand_quart75_price": 500000,
+        "models": {
+            "Talon": {
+                "model_quart75_price": 500000,
+                "model_median_price_by_years": {
+                    "1992": 500000
+                }
+            }
+        }
+    },
+    "FAW": {
+        "brand_median_price_by_years": {
+            "2017": 930000,
+            "2020": 1279000,
+            "2018": 955000,
+            "2019": 1310000
+        },
+        "brand_quart75_price": 1311000,
+        "models": {
+            "Besturn X80": {
+                "model_quart75_price": 1311000,
+                "model_median_price_by_years": {
+                    "2017": 930000,
+                    "2020": 1279000,
+                    "2018": 955000,
+                    "2019": 1310000
+                }
+            }
+        }
+    },
+    "Ferrari": {
+        "brand_median_price_by_years": {
+            "2020": 19400000
+        },
+        "brand_quart75_price": 19400000,
+        "models": {
+            "Roma": {
+                "model_quart75_price": 19400000,
+                "model_median_price_by_years": {
+                    "2020": 19400000
+                }
+            }
+        }
+    },
+    "Fiat": {
+        "brand_median_price_by_years": {
+            "1996": 250000
+        },
+        "brand_quart75_price": 250000,
+        "models": {
+            "Ulysse": {
+                "model_quart75_price": 250000,
+                "model_median_price_by_years": {
+                    "1996": 250000
+                }
+            }
+        }
+    },
+    "Fisker": {
+        "brand_median_price_by_years": {
+            "2012": 3900000
+        },
+        "brand_quart75_price": 3900000,
+        "models": {
+            "Karma": {
+                "model_quart75_price": 3900000,
+                "model_median_price_by_years": {
+                    "2012": 3900000
+                }
+            }
+        }
+    },
+    "FSO": {
+        "brand_median_price_by_years": {
+            "1982": 350000
+        },
+        "brand_quart75_price": 350000,
+        "models": {
+            "125p": {
+                "model_quart75_price": 350000,
+                "model_median_price_by_years": {
+                    "1982": 350000
+                }
+            }
+        }
+    },
+    "GAC": {
+        "brand_median_price_by_years": {
+            "2020": 2478900,
+            "2019": 2180000
+        },
+        "brand_quart75_price": 2506216,
+        "models": {
+            "GS8": {
+                "model_quart75_price": 2506216,
+                "model_median_price_by_years": {
+                    "2020": 2478900,
+                    "2019": 2180000
+                }
+            }
+        }
+    },
+    "Geely": {
+        "brand_median_price_by_years": {
+            "2008": 155000
+        },
+        "brand_quart75_price": 167500,
+        "models": {
+            "FC (Vision)": {
+                "model_quart75_price": 167500,
+                "model_median_price_by_years": {
+                    "2008": 155000
+                }
+            }
+        }
+    },
+    "Genesis": {
+        "brand_median_price_by_years": {
+            "2021": 6260000,
+            "2020": 5300000
+        },
+        "brand_quart75_price": 7440000,
+        "models": {
+            "GV80": {
+                "model_quart75_price": 7440000,
+                "model_median_price_by_years": {
+                    "2021": 6260000,
+                    "2020": 5300000
+                }
+            }
+        }
+    },
+    "GMC": {
+        "brand_median_price_by_years": {
+            "2002": 765000,
+            "2011": 1600000,
+            "2021": 11996181,
+            "1997": 640000,
+            "2000": 490000,
+            "2004": 990000
+        },
+        "brand_quart75_price": 1375000,
+        "models": {
+            "Yukon": {
+                "model_quart75_price": 1375000,
+                "model_median_price_by_years": {
+                    "2002": 765000,
+                    "2011": 1600000,
+                    "2021": 11996181,
+                    "1997": 640000,
+                    "2000": 490000,
+                    "2004": 990000
+                }
+            }
+        }
+    },
+    "Great Wall": {
+        "brand_median_price_by_years": {
+            "2012": 449500,
+            "2010": 269000,
+            "2011": 335000,
+            "2008": 229000,
+            "2013": 350000
+        },
+        "brand_quart75_price": 350000,
+        "models": {
+            "Wingle": {
+                "model_quart75_price": 350000,
+                "model_median_price_by_years": {
+                    "2012": 449500,
+                    "2010": 269000,
+                    "2011": 335000,
+                    "2008": 229000,
+                    "2013": 350000
+                }
+            }
+        }
+    },
+    "Hafei": {
+        "brand_median_price_by_years": {
+            "2007": 60000
+        },
+        "brand_quart75_price": 60000,
+        "models": {
+            "Simbo": {
+                "model_quart75_price": 60000,
+                "model_median_price_by_years": {
+                    "2007": 60000
+                }
+            }
+        }
+    },
+    "Haima": {
+        "brand_median_price_by_years": {
+            "2014": 320000
+        },
+        "brand_quart75_price": 320000,
+        "models": {
+            "M3": {
+                "model_quart75_price": 320000,
+                "model_median_price_by_years": {
+                    "2014": 320000
+                }
+            }
+        }
+    },
+    "Haval": {
+        "brand_median_price_by_years": {
+            "2021": 1629000
+        },
+        "brand_quart75_price": 1639000,
+        "models": {
+            "Jolion": {
+                "model_quart75_price": 1639000,
+                "model_median_price_by_years": {
+                    "2021": 1629000
+                }
+            }
+        }
+    },
+    "Hawtai": {
+        "brand_median_price_by_years": {
+            "2017": 871000
+        },
+        "brand_quart75_price": 900500,
+        "models": {
+            "Laville": {
+                "model_quart75_price": 900500,
+                "model_median_price_by_years": {
+                    "2017": 871000
+                }
+            }
+        }
+    },
+    "Hummer": {
+        "brand_median_price_by_years": {
+            "2005": 1149500,
+            "2008": 1990000,
+            "2009": 1200000,
+            "2006": 1170000,
+            "2007": 1215000
+        },
+        "brand_quart75_price": 1550000,
+        "models": {
+            "H3": {
+                "model_quart75_price": 1550000,
+                "model_median_price_by_years": {
+                    "2005": 1149500,
+                    "2008": 1990000,
+                    "2009": 1200000,
+                    "2006": 1170000,
+                    "2007": 1215000
+                }
+            }
+        }
+    },
+    "Hyundai": {
+        "brand_median_price_by_years": {
+            "2001": 155000
+        },
+        "brand_quart75_price": 155000,
+        "models": {
+            "XG": {
+                "model_quart75_price": 155000,
+                "model_median_price_by_years": {
+                    "2001": 155000
+                }
+            }
+        }
+    },
+    "Infiniti": {
+        "brand_median_price_by_years": {
+            "2017": 2950000,
+            "2014": 2422500,
+            "2015": 2980000,
+            "2018": 4471000,
+            "2021": 7060000,
+            "2019": 5397000,
+            "2013": 2100000,
+            "2016": 3375000
+        },
+        "brand_quart75_price": 6999000,
+        "models": {
+            "QX80": {
+                "model_quart75_price": 6999000,
+                "model_median_price_by_years": {
+                    "2017": 2950000,
+                    "2014": 2422500,
+                    "2015": 2980000,
+                    "2018": 4471000,
+                    "2021": 7060000,
+                    "2019": 5397000,
+                    "2013": 2100000,
+                    "2016": 3375000
+                }
+            }
+        }
+    },
+    "Iran Khodro": {
+        "brand_median_price_by_years": {
+            "2008": 182500,
+            "2007": 120000,
+            "2006": 145000
+        },
+        "brand_quart75_price": 160000,
+        "models": {
+            "Samand": {
+                "model_quart75_price": 160000,
+                "model_median_price_by_years": {
+                    "2008": 182500,
+                    "2007": 120000,
+                    "2006": 145000
+                }
+            }
+        }
+    },
+    "JAC": {
+        "brand_median_price_by_years": {
+            "2020": 1700000
+        },
+        "brand_quart75_price": 1700000,
+        "models": {
+            "T6": {
+                "model_quart75_price": 1700000,
+                "model_median_price_by_years": {
+                    "2020": 1700000
+                }
+            }
+        }
+    },
+    "Jaguar": {
+        "brand_median_price_by_years": {
+            "2009": 2390000,
+            "2008": 1622500,
+            "2003": 1458808,
+            "1999": 850000,
+            "2007": 1799950
+        },
+        "brand_quart75_price": 1800000,
+        "models": {
+            "XKR": {
+                "model_quart75_price": 1800000,
+                "model_median_price_by_years": {
+                    "2009": 2390000,
+                    "2008": 1622500,
+                    "2003": 1458808,
+                    "1999": 850000,
+                    "2007": 1799950
+                }
+            }
+        }
+    },
+    "Jeep": {
+        "brand_median_price_by_years": {
+            "2018": 4099999,
+            "2021": 5505000,
+            "2012": 2637000,
+            "2013": 2134500,
+            "2019": 8000000,
+            "1990": 370000,
+            "1992": 1127500,
+            "1997": 1500000,
+            "1996": 1000000,
+            "2002": 2300000,
+            "2009": 1620000,
+            "2016": 3497500,
+            "1993": 450000,
+            "2014": 2650000,
+            "2011": 2825000,
+            "2008": 1975000,
+            "2020": 5410000,
+            "2010": 2099000,
+            "2007": 2461000,
+            "1999": 700000,
+            "1994": 660000,
+            "2000": 1090000,
+            "2001": 790000
+        },
+        "brand_quart75_price": 5771500,
+        "models": {
+            "Wrangler": {
+                "model_quart75_price": 5771500,
+                "model_median_price_by_years": {
+                    "2018": 4099999,
+                    "2021": 5505000,
+                    "2012": 2637000,
+                    "2013": 2134500,
+                    "2019": 8000000,
+                    "1990": 370000,
+                    "1992": 1127500,
+                    "1997": 1500000,
+                    "1996": 1000000,
+                    "2002": 2300000,
+                    "2009": 1620000,
+                    "2016": 3497500,
+                    "1993": 450000,
+                    "2014": 2650000,
+                    "2011": 2825000,
+                    "2008": 1975000,
+                    "2020": 5410000,
+                    "2010": 2099000,
+                    "2007": 2461000,
+                    "1999": 700000,
+                    "1994": 660000,
+                    "2000": 1090000,
+                    "2001": 790000
+                }
+            }
+        }
+    },
+    "Kia": {
+        "brand_median_price_by_years": {
+            "2021": 1774400,
+            "2020": 2300000
+        },
+        "brand_quart75_price": 2034900,
+        "models": {
+            "XCeed": {
+                "model_quart75_price": 2034900,
+                "model_median_price_by_years": {
+                    "2021": 1774400,
+                    "2020": 2300000
+                }
+            }
+        }
+    },
+    "LADA (ВАЗ)": {
+        "brand_median_price_by_years": {
+            "2017": 609500,
+            "2021": 882900,
+            "2019": 769000,
+            "2016": 599000,
+            "2020": 804999,
+            "2018": 620000
+        },
+        "brand_quart75_price": 798000,
+        "models": {
+            "XRAY": {
+                "model_quart75_price": 798000,
+                "model_median_price_by_years": {
+                    "2017": 609500,
+                    "2021": 882900,
+                    "2019": 769000,
+                    "2016": 599000,
+                    "2020": 804999,
+                    "2018": 620000
+                }
+            }
+        }
+    },
+    "Lamborghini": {
+        "brand_median_price_by_years": {
+            "2018": 50000000,
+            "2020": 22500000,
+            "2021": 28500000,
+            "2019": 21745000
+        },
+        "brand_quart75_price": 28500000,
+        "models": {
+            "Urus": {
+                "model_quart75_price": 28500000,
+                "model_median_price_by_years": {
+                    "2018": 50000000,
+                    "2020": 22500000,
+                    "2021": 28500000,
+                    "2019": 21745000
+                }
+            }
+        }
+    },
+    "Lancia": {
+        "brand_median_price_by_years": {
+            "2000": 190000
+        },
+        "brand_quart75_price": 190000,
+        "models": {
+            "Ypsilon": {
+                "model_quart75_price": 190000,
+                "model_median_price_by_years": {
+                    "2000": 190000
+                }
+            }
+        }
+    },
+    "Land Rover": {
+        "brand_median_price_by_years": {
+            "2017": 4249000,
+            "2021": 5938000,
+            "2020": 5348000,
+            "2019": 4500000,
+            "2018": 4358000
+        },
+        "brand_quart75_price": 5804000,
+        "models": {
+            "Range Rover Velar": {
+                "model_quart75_price": 5804000,
+                "model_median_price_by_years": {
+                    "2017": 4249000,
+                    "2021": 5938000,
+                    "2020": 5348000,
+                    "2019": 4500000,
+                    "2018": 4358000
+                }
+            }
+        }
+    },
+    "Lexus": {
+        "brand_median_price_by_years": {
+            "2020": 2650000,
+            "2021": 2853000,
+            "2018": 2697000,
+            "2019": 3073500
+        },
+        "brand_quart75_price": 2850750,
+        "models": {
+            "UX": {
+                "model_quart75_price": 2850750,
+                "model_median_price_by_years": {
+                    "2020": 2650000,
+                    "2021": 2853000,
+                    "2018": 2697000,
+                    "2019": 3073500
+                }
+            }
+        }
+    },
+    "Lifan": {
+        "brand_median_price_by_years": {
+            "2018": 880000
+        },
+        "brand_quart75_price": 925000,
+        "models": {
+            "X70": {
+                "model_quart75_price": 925000,
+                "model_median_price_by_years": {
+                    "2018": 880000
+                }
+            }
+        }
+    },
+    "Ligier": {
+        "brand_median_price_by_years": {
+            "2010": 4500000
+        },
+        "brand_quart75_price": 4500000,
+        "models": {
+            "JS 51": {
+                "model_quart75_price": 4500000,
+                "model_median_price_by_years": {
+                    "2010": 4500000
+                }
+            }
+        }
+    },
+    "Lincoln": {
+        "brand_median_price_by_years": {
+            "1936": 3000000
+        },
+        "brand_quart75_price": 3000000,
+        "models": {
+            "Zephyr": {
+                "model_quart75_price": 3000000,
+                "model_median_price_by_years": {
+                    "1936": 3000000
+                }
+            }
+        }
+    },
+    "Lotus": {
+        "brand_median_price_by_years": {
+            "2008": 4500000,
+            "2006": 2500000
+        },
+        "brand_quart75_price": 4000000,
+        "models": {
+            "Elise": {
+                "model_quart75_price": 4000000,
+                "model_median_price_by_years": {
+                    "2008": 4500000,
+                    "2006": 2500000
+                }
+            }
+        }
+    },
+    "Maserati": {
+        "brand_median_price_by_years": {
+            "2015": 4900000,
+            "2016": 4349000,
+            "2014": 3649000,
+            "2017": 5600000,
+            "2013": 2849500,
+            "2001": 3050000,
+            "2005": 1400000,
+            "2007": 1200000,
+            "2004": 850000
+        },
+        "brand_quart75_price": 4975000,
+        "models": {
+            "Quattroporte": {
+                "model_quart75_price": 4975000,
+                "model_median_price_by_years": {
+                    "2015": 4900000,
+                    "2016": 4349000,
+                    "2014": 3649000,
+                    "2017": 5600000,
+                    "2013": 2849500,
+                    "2001": 3050000,
+                    "2005": 1400000,
+                    "2007": 1200000,
+                    "2004": 850000
+                }
+            }
+        }
+    },
+    "Maybach": {
+        "brand_median_price_by_years": {
+            "2004": 6999999,
+            "2012": 26950000,
+            "2003": 20900000,
+            "2007": 11400000,
+            "2010": 30000000
+        },
+        "brand_quart75_price": 27425000,
+        "models": {
+            "62": {
+                "model_quart75_price": 27425000,
+                "model_median_price_by_years": {
+                    "2004": 6999999,
+                    "2012": 26950000,
+                    "2003": 20900000,
+                    "2007": 11400000,
+                    "2010": 30000000
+                }
+            }
+        }
+    },
+    "Mazda": {
+        "brand_median_price_by_years": {
+            "2001": 450000,
+            "1999": 185000,
+            "2000": 85000,
+            "1998": 137500,
+            "2002": 285000
+        },
+        "brand_quart75_price": 237500,
+        "models": {
+            "Xedos 9": {
+                "model_quart75_price": 237500,
+                "model_median_price_by_years": {
+                    "2001": 450000,
+                    "1999": 185000,
+                    "2000": 85000,
+                    "1998": 137500,
+                    "2002": 285000
+                }
+            }
+        }
+    },
+    "McLaren": {
+        "brand_median_price_by_years": {
+            "2016": 15550000
+        },
+        "brand_quart75_price": 15550000,
+        "models": {
+            "570S": {
+                "model_quart75_price": 15550000,
+                "model_median_price_by_years": {
+                    "2016": 15550000
+                }
+            }
+        }
+    },
+    "Mercedes-Benz": {
+        "brand_median_price_by_years": {
+            "2018": 3547000
+        },
+        "brand_quart75_price": 3547000,
+        "models": {
+            "X-Класс": {
+                "model_quart75_price": 3547000,
+                "model_median_price_by_years": {
+                    "2018": 3547000
+                }
+            }
+        }
+    },
+    "Mercury": {
+        "brand_median_price_by_years": {
+            "1994": 260000
+        },
+        "brand_quart75_price": 260000,
+        "models": {
+            "Villager": {
+                "model_quart75_price": 260000,
+                "model_median_price_by_years": {
+                    "1994": 260000
+                }
+            }
+        }
+    },
+    "Metrocab": {
+        "brand_median_price_by_years": {
+            "2001": 245000
+        },
+        "brand_quart75_price": 245000,
+        "models": {
+            "Metrocab II (TTT)": {
+                "model_quart75_price": 245000,
+                "model_median_price_by_years": {
+                    "2001": 245000
+                }
+            }
+        }
+    },
+    "MG": {
+        "brand_median_price_by_years": {
+            "2003": 350000
+        },
+        "brand_quart75_price": 350000,
+        "models": {
+            "ZT": {
+                "model_quart75_price": 350000,
+                "model_median_price_by_years": {
+                    "2003": 350000
+                }
+            }
+        }
+    },
+    "MINI": {
+        "brand_median_price_by_years": {
+            "2012": 2500000
+        },
+        "brand_quart75_price": 2500000,
+        "models": {
+            "Roadster": {
+                "model_quart75_price": 2500000,
+                "model_median_price_by_years": {
+                    "2012": 2500000
+                }
+            }
+        }
+    },
+    "Nissan": {
+        "brand_median_price_by_years": {
+            "2000": 700000,
+            "2001": 400000
+        },
+        "brand_quart75_price": 625000,
+        "models": {
+            "Xterra": {
+                "model_quart75_price": 625000,
+                "model_median_price_by_years": {
+                    "2000": 700000,
+                    "2001": 400000
+                }
+            }
+        }
+    },
+    "Opel": {
+        "brand_median_price_by_years": {
+            "2020": 3004950,
+            "2021": 2879899
+        },
+        "brand_quart75_price": 3319899,
+        "models": {
+            "Zafira Life": {
+                "model_quart75_price": 3319899,
+                "model_median_price_by_years": {
+                    "2020": 3004950,
+                    "2021": 2879899
+                }
+            }
+        }
+    },
+    "Packard": {
+        "brand_median_price_by_years": {
+            "1942": 3900000
+        },
+        "brand_quart75_price": 3900000,
+        "models": {
+            "Clipper": {
+                "model_quart75_price": 3900000,
+                "model_median_price_by_years": {
+                    "1942": 3900000
+                }
+            }
+        }
+    },
+    "Peugeot": {
+        "brand_median_price_by_years": {
+            "2021": 2829900,
+            "2018": 2200000,
+            "2020": 2620000,
+            "2017": 2081000,
+            "2019": 2734000
+        },
+        "brand_quart75_price": 2950000,
+        "models": {
+            "Traveller": {
+                "model_quart75_price": 2950000,
+                "model_median_price_by_years": {
+                    "2021": 2829900,
+                    "2018": 2200000,
+                    "2020": 2620000,
+                    "2017": 2081000,
+                    "2019": 2734000
+                }
+            }
+        }
+    },
+    "Plymouth": {
+        "brand_median_price_by_years": {
+            "1998": 247500,
+            "1995": 130000,
+            "1992": 110000,
+            "1996": 290000
+        },
+        "brand_quart75_price": 290000,
+        "models": {
+            "Voyager": {
+                "model_quart75_price": 290000,
+                "model_median_price_by_years": {
+                    "1998": 247500,
+                    "1995": 130000,
+                    "1992": 110000,
+                    "1996": 290000
+                }
+            }
+        }
+    },
+    "Pontiac": {
+        "brand_median_price_by_years": {
+            "2009": 537500,
+            "2002": 399000,
+            "2005": 750000,
+            "2007": 484500,
+            "2003": 375000,
+            "2004": 362500
+        },
+        "brand_quart75_price": 495000,
+        "models": {
+            "Vibe": {
+                "model_quart75_price": 495000,
+                "model_median_price_by_years": {
+                    "2009": 537500,
+                    "2002": 399000,
+                    "2005": 750000,
+                    "2007": 484500,
+                    "2003": 375000,
+                    "2004": 362500
+                }
+            }
+        }
+    },
+    "Porsche": {
+        "brand_median_price_by_years": {
+            "2021": 14950083,
+            "2020": 12000000,
+            "2019": 11500000
+        },
+        "brand_quart75_price": 16990195,
+        "models": {
+            "Taycan": {
+                "model_quart75_price": 16990195,
+                "model_median_price_by_years": {
+                    "2021": 14950083,
+                    "2020": 12000000,
+                    "2019": 11500000
+                }
+            }
+        }
+    },
+    "Proton": {
+        "brand_median_price_by_years": {
+            "1999": 125000
+        },
+        "brand_quart75_price": 125000,
+        "models": {
+            "Persona": {
+                "model_quart75_price": 125000,
+                "model_median_price_by_years": {
+                    "1999": 125000
+                }
+            }
+        }
+    },
+    "PUCH": {
+        "brand_median_price_by_years": {
+            "1974": 6000000
+        },
+        "brand_quart75_price": 6000000,
+        "models": {
+            "Pinzgauer": {
+                "model_quart75_price": 6000000,
+                "model_median_price_by_years": {
+                    "1974": 6000000
+                }
+            }
+        }
+    },
+    "RAM": {
+        "brand_median_price_by_years": {
+            "2019": 6000000,
+            "2021": 13173720,
+            "2020": 6995000,
+            "2018": 4790000,
+            "2017": 6300000
+        },
+        "brand_quart75_price": 13173720,
+        "models": {
+            "1500": {
+                "model_quart75_price": 13173720,
+                "model_median_price_by_years": {
+                    "2019": 6000000,
+                    "2021": 13173720,
+                    "2020": 6995000,
+                    "2018": 4790000,
+                    "2017": 6300000
+                }
+            }
+        }
+    },
+    "Ravon": {
+        "brand_median_price_by_years": {
+            "2017": 553500,
+            "2018": 450000
+        },
+        "brand_quart75_price": 589500,
+        "models": {
+            "R4": {
+                "model_quart75_price": 589500,
+                "model_median_price_by_years": {
+                    "2017": 553500,
+                    "2018": 450000
+                }
+            }
+        }
+    },
+    "Rinspeed": {
+        "brand_median_price_by_years": {
+            "2004": 33000000
+        },
+        "brand_quart75_price": 33000000,
+        "models": {
+            "Chopster": {
+                "model_quart75_price": 33000000,
+                "model_median_price_by_years": {
+                    "2004": 33000000
+                }
+            }
+        }
+    },
+    "Rolls-Royce": {
+        "brand_median_price_by_years": {
+            "2018": 24500000,
+            "2014": 13500000,
+            "2015": 13777000,
+            "2021": 33975000,
+            "2017": 16750000,
+            "2020": 32800000,
+            "2016": 18900000
+        },
+        "brand_quart75_price": 24500000,
+        "models": {
+            "Wraith": {
+                "model_quart75_price": 24500000,
+                "model_median_price_by_years": {
+                    "2018": 24500000,
+                    "2014": 13500000,
+                    "2015": 13777000,
+                    "2021": 33975000,
+                    "2017": 16750000,
+                    "2020": 32800000,
+                    "2016": 18900000
+                }
+            }
+        }
+    },
+    "Rover": {
+        "brand_median_price_by_years": {
+            "2004": 400000
+        },
+        "brand_quart75_price": 400000,
+        "models": {
+            "Streetwise": {
+                "model_quart75_price": 400000,
+                "model_median_price_by_years": {
+                    "2004": 400000
+                }
+            }
+        }
+    },
+    "Saturn": {
+        "brand_median_price_by_years": {
+            "2003": 226500,
+            "2004": 300000
+        },
+        "brand_quart75_price": 291500,
+        "models": {
+            "VUE": {
+                "model_quart75_price": 291500,
+                "model_median_price_by_years": {
+                    "2003": 226500,
+                    "2004": 300000
+                }
+            }
+        }
+    },
+    "SEAT": {
+        "brand_median_price_by_years": {
+            "2007": 370000,
+            "1999": 150000,
+            "1992": 175000,
+            "1995": 130000
+        },
+        "brand_quart75_price": 223750,
+        "models": {
+            "Toledo": {
+                "model_quart75_price": 223750,
+                "model_median_price_by_years": {
+                    "2007": 370000,
+                    "1999": 150000,
+                    "1992": 175000,
+                    "1995": 130000
+                }
+            }
+        }
+    },
+    "Shanghai Maple": {
+        "brand_median_price_by_years": {
+            "2008": 150000
+        },
+        "brand_quart75_price": 150000,
+        "models": {
+            "C81": {
+                "model_quart75_price": 150000,
+                "model_median_price_by_years": {
+                    "2008": 150000
+                }
+            }
+        }
+    },
+    "Skoda": {
+        "brand_median_price_by_years": {
+            "2012": 650000,
+            "2013": 690000,
+            "2011": 603500,
+            "2015": 995000,
+            "2014": 840000,
+            "2016": 1052500,
+            "2010": 530000,
+            "2017": 1173000,
+            "2018": 1314000
+        },
+        "brand_quart75_price": 877500,
+        "models": {
+            "Yeti": {
+                "model_quart75_price": 877500,
+                "model_median_price_by_years": {
+                    "2012": 650000,
+                    "2013": 690000,
+                    "2011": 603500,
+                    "2015": 995000,
+                    "2014": 840000,
+                    "2016": 1052500,
+                    "2010": 530000,
+                    "2017": 1173000,
+                    "2018": 1314000
+                }
+            }
+        }
+    },
+    "Smart": {
+        "brand_median_price_by_years": {
+            "2003": 650000,
+            "2004": 800000
+        },
+        "brand_quart75_price": 784722,
+        "models": {
+            "Roadster": {
+                "model_quart75_price": 784722,
+                "model_median_price_by_years": {
+                    "2003": 650000,
+                    "2004": 800000
+                }
+            }
+        }
+    },
+    "Subaru": {
+        "brand_median_price_by_years": {
+            "2016": 1587000,
+            "2012": 925000,
+            "2021": 2659900,
+            "2018": 1782500,
+            "2011": 885000,
+            "2014": 1161500,
+            "2013": 1085000,
+            "2017": 1900000,
+            "2019": 2480000
+        },
+        "brand_quart75_price": 2558900,
+        "models": {
+            "XV": {
+                "model_quart75_price": 2558900,
+                "model_median_price_by_years": {
+                    "2016": 1587000,
+                    "2012": 925000,
+                    "2021": 2659900,
+                    "2018": 1782500,
+                    "2011": 885000,
+                    "2014": 1161500,
+                    "2013": 1085000,
+                    "2017": 1900000,
+                    "2019": 2480000
+                }
+            }
+        }
+    },
+    "Suzuki": {
+        "brand_median_price_by_years": {
+            "2007": 880000
+        },
+        "brand_quart75_price": 880000,
+        "models": {
+            "XL7": {
+                "model_quart75_price": 880000,
+                "model_median_price_by_years": {
+                    "2007": 880000
+                }
+            }
+        }
+    },
+    "Tatra": {
+        "brand_median_price_by_years": {
+            "1990": 1100000,
+            "1977": 850000
+        },
+        "brand_quart75_price": 1037500,
+        "models": {
+            "T613": {
+                "model_quart75_price": 1037500,
+                "model_median_price_by_years": {
+                    "1990": 1100000,
+                    "1977": 850000
+                }
+            }
+        }
+    },
+    "Tesla": {
+        "brand_median_price_by_years": {
+            "2020": 5550000,
+            "2021": 5526900
+        },
+        "brand_quart75_price": 5733334,
+        "models": {
+            "Model Y": {
+                "model_quart75_price": 5733334,
+                "model_median_price_by_years": {
+                    "2020": 5550000,
+                    "2021": 5526900
+                }
+            }
+        }
+    },
+    "Tianma": {
+        "brand_median_price_by_years": {
+            "2007": 350000
+        },
+        "brand_quart75_price": 350000,
+        "models": {
+            "Century": {
+                "model_quart75_price": 350000,
+                "model_median_price_by_years": {
+                    "2007": 350000
+                }
+            }
+        }
+    },
+    "Toyota": {
+        "brand_median_price_by_years": {
+            "2001": 270000
+        },
+        "brand_quart75_price": 270000,
+        "models": {
+            "Yaris Verso": {
+                "model_quart75_price": 270000,
+                "model_median_price_by_years": {
+                    "2001": 270000
+                }
+            }
+        }
+    },
+    "Trabant": {
+        "brand_median_price_by_years": {
+            "1985": 90000,
+            "1987": 250000
+        },
+        "brand_quart75_price": 210000,
+        "models": {
+            "P 601": {
+                "model_quart75_price": 210000,
+                "model_median_price_by_years": {
+                    "1985": 90000,
+                    "1987": 250000
+                }
+            }
+        }
+    },
+    "Triumph": {
+        "brand_median_price_by_years": {
+            "1967": 1500000
+        },
+        "brand_quart75_price": 1500000,
+        "models": {
+            "Spitfire": {
+                "model_quart75_price": 1500000,
+                "model_median_price_by_years": {
+                    "1967": 1500000
+                }
+            }
+        }
+    },
+    "Volkswagen": {
+        "brand_median_price_by_years": {
+            "1992": 113500,
+            "1996": 85000,
+            "1993": 170000,
+            "1994": 120000
+        },
+        "brand_quart75_price": 152500,
+        "models": {
+            "Vento": {
+                "model_quart75_price": 152500,
+                "model_median_price_by_years": {
+                    "1992": 113500,
+                    "1996": 85000,
+                    "1993": 170000,
+                    "1994": 120000
+                }
+            }
+        }
+    },
+    "Volvo": {
+        "brand_median_price_by_years": {
+            "2011": 1300000,
+            "2004": 567500,
+            "2008": 970000,
+            "2021": 5561787,
+            "2016": 3062000,
+            "2013": 1515000,
+            "2012": 1365000,
+            "2018": 3807000,
+            "2010": 1042500,
+            "2015": 2826500,
+            "2006": 850000,
+            "2017": 3514500,
+            "2003": 590000,
+            "2007": 800000,
+            "2020": 5090000,
+            "2005": 560000,
+            "2014": 1727500,
+            "2009": 960000,
+            "2019": 4425000,
+            "2002": 380000
+        },
+        "brand_quart75_price": 5126015,
+        "models": {
+            "XC90": {
+                "model_quart75_price": 5126015,
+                "model_median_price_by_years": {
+                    "2011": 1300000,
+                    "2004": 567500,
+                    "2008": 970000,
+                    "2021": 5561787,
+                    "2016": 3062000,
+                    "2013": 1515000,
+                    "2012": 1365000,
+                    "2018": 3807000,
+                    "2010": 1042500,
+                    "2015": 2826500,
+                    "2006": 850000,
+                    "2017": 3514500,
+                    "2003": 590000,
+                    "2007": 800000,
+                    "2020": 5090000,
+                    "2005": 560000,
+                    "2014": 1727500,
+                    "2009": 960000,
+                    "2019": 4425000,
+                    "2002": 380000
+                }
+            }
+        }
+    },
+    "Vortex": {
+        "brand_median_price_by_years": {
+            "2011": 280000,
+            "2010": 250000,
+            "2012": 266500
+        },
+        "brand_quart75_price": 298074,
+        "models": {
+            "Tingo": {
+                "model_quart75_price": 298074,
+                "model_median_price_by_years": {
+                    "2011": 280000,
+                    "2010": 250000,
+                    "2012": 266500
+                }
+            }
+        }
+    },
+    "Willys": {
+        "brand_median_price_by_years": {
+            "1944": 1300000
+        },
+        "brand_quart75_price": 2525000,
+        "models": {
+            "MB": {
+                "model_quart75_price": 2525000,
+                "model_median_price_by_years": {
+                    "1944": 1300000
+                }
+            }
+        }
+    },
+    "Xin Kai": {
+        "brand_median_price_by_years": {
+            "2005": 110000
+        },
+        "brand_quart75_price": 110000,
+        "models": {
+            "SUV X3": {
+                "model_quart75_price": 110000,
+                "model_median_price_by_years": {
+                    "2005": 110000
+                }
+            }
+        }
+    },
+    "Xpeng": {
+        "brand_median_price_by_years": {
+            "2021": 4100000
+        },
+        "brand_quart75_price": 4100000,
+        "models": {
+            "P7": {
+                "model_quart75_price": 4100000,
+                "model_median_price_by_years": {
+                    "2021": 4100000
+                }
+            }
+        }
+    },
+    "Zibar": {
+        "brand_median_price_by_years": {
+            "2012": 12700000,
+            "2014": 16500000
+        },
+        "brand_quart75_price": 15550000,
+        "models": {
+            "MK2": {
+                "model_quart75_price": 15550000,
+                "model_median_price_by_years": {
+                    "2012": 12700000,
+                    "2014": 16500000
+                }
+            }
+        }
+    },
+    "ZX": {
+        "brand_median_price_by_years": {
+            "2008": 190000,
+            "2007": 340000
+        },
+        "brand_quart75_price": 302500,
+        "models": {
+            "Landmark": {
+                "model_quart75_price": 302500,
+                "model_median_price_by_years": {
+                    "2008": 190000,
+                    "2007": 340000
+                }
+            }
+        }
+    },
+    "ГАЗ": {
+        "brand_median_price_by_years": {
+            "2009": 284500,
+            "2010": 280000,
+            "2008": 320000
+        },
+        "brand_quart75_price": 305000,
+        "models": {
+            "Volga Siber": {
+                "model_quart75_price": 305000,
+                "model_median_price_by_years": {
+                    "2009": 284500,
+                    "2010": 280000,
+                    "2008": 320000
+                }
+            }
+        }
+    },
+    "ЗАЗ": {
+        "brand_median_price_by_years": {
+            "2009": 235000
+        },
+        "brand_quart75_price": 235000,
+        "models": {
+            "Lanos": {
+                "model_quart75_price": 235000,
+                "model_median_price_by_years": {
+                    "2009": 235000
+                }
+            }
+        }
+    },
+    "ЗИЛ": {
+        "brand_median_price_by_years": {
+            "1986": 8760000,
+            "1989": 8500000,
+            "1980": 9499358
+        },
+        "brand_quart75_price": 9129679,
+        "models": {
+            "4104": {
+                "model_quart75_price": 9129679,
+                "model_median_price_by_years": {
+                    "1986": 8760000,
+                    "1989": 8500000,
+                    "1980": 9499358
+                }
+            }
+        }
+    },
+    "ЗиС": {
+        "brand_median_price_by_years": {
+            "1950": 30000000,
+            "1948": 52000000
+        },
+        "brand_quart75_price": 46500000,
+        "models": {
+            "110": {
+                "model_quart75_price": 46500000,
+                "model_median_price_by_years": {
+                    "1950": 30000000,
+                    "1948": 52000000
+                }
+            }
+        }
+    },
+    "ИЖ": {
+        "brand_median_price_by_years": {
+            "1989": 69000,
+            "1987": 100000,
+            "1991": 65000,
+            "1985": 229000,
+            "1988": 51000,
+            "1980": 215000,
+            "1976": 40000,
+            "1992": 52500,
+            "1982": 200000,
+            "1973": 219500,
+            "1990": 76500,
+            "1983": 40000,
+            "1984": 127500,
+            "1996": 62500,
+            "1994": 153500,
+            "1975": 65000,
+            "1968": 99000,
+            "1969": 180000,
+            "1978": 170000,
+            "1971": 200000,
+            "1986": 210000,
+            "1995": 55000
+        },
+        "brand_quart75_price": 200000,
+        "models": {
+            "Москвич-412": {
+                "model_quart75_price": 200000,
+                "model_median_price_by_years": {
+                    "1989": 69000,
+                    "1987": 100000,
+                    "1991": 65000,
+                    "1985": 229000,
+                    "1988": 51000,
+                    "1980": 215000,
+                    "1976": 40000,
+                    "1992": 52500,
+                    "1982": 200000,
+                    "1973": 219500,
+                    "1990": 76500,
+                    "1983": 40000,
+                    "1984": 127500,
+                    "1996": 62500,
+                    "1994": 153500,
+                    "1975": 65000,
+                    "1968": 99000,
+                    "1969": 180000,
+                    "1978": 170000,
+                    "1971": 200000,
+                    "1986": 210000,
+                    "1995": 55000
+                }
+            }
+        }
+    },
+    "ЛуАЗ": {
+        "brand_median_price_by_years": {
+            "1977": 45000,
+            "1990": 170000,
+            "1983": 150000,
+            "1994": 105000,
+            "1995": 105000,
+            "1989": 120000,
+            "1987": 105000,
+            "1991": 110000,
+            "1974": 140000,
+            "1978": 15000,
+            "1982": 150000,
+            "1992": 105000,
+            "1981": 230000,
+            "1988": 300000,
+            "1993": 90000,
+            "1985": 82500,
+            "1984": 150000
+        },
+        "brand_quart75_price": 155000,
+        "models": {
+            "969": {
+                "model_quart75_price": 155000,
+                "model_median_price_by_years": {
+                    "1977": 45000,
+                    "1990": 170000,
+                    "1983": 150000,
+                    "1994": 105000,
+                    "1995": 105000,
+                    "1989": 120000,
+                    "1987": 105000,
+                    "1991": 110000,
+                    "1974": 140000,
+                    "1978": 15000,
+                    "1982": 150000,
+                    "1992": 105000,
+                    "1981": 230000,
+                    "1988": 300000,
+                    "1993": 90000,
+                    "1985": 82500,
+                    "1984": 150000
+                }
+            }
+        }
+    },
+    "Москвич": {
+        "brand_median_price_by_years": {
+            "2000": 45000,
+            "1999": 70000,
+            "1998": 80500
+        },
+        "brand_quart75_price": 92500,
+        "models": {
+            "Святогор": {
+                "model_quart75_price": 92500,
+                "model_median_price_by_years": {
+                    "2000": 45000,
+                    "1999": 70000,
+                    "1998": 80500
+                }
+            }
+        }
+    },
+    "СМЗ": {
+        "brand_median_price_by_years": {
+            "1972": 27000,
+            "1991": 20000
+        },
+        "brand_quart75_price": 25250,
+        "models": {
+            "С-3Д": {
+                "model_quart75_price": 25250,
+                "model_median_price_by_years": {
+                    "1972": 27000,
+                    "1991": 20000
+                }
+            }
+        }
+    },
+    "ТагАЗ": {
+        "brand_median_price_by_years": {
+            "2009": 450000,
+            "2008": 394500,
+            "2010": 449000,
+            "2011": 443500
+        },
+        "brand_quart75_price": 460000,
+        "models": {
+            "Tager": {
+                "model_quart75_price": 460000,
+                "model_median_price_by_years": {
+                    "2009": 450000,
+                    "2008": 394500,
+                    "2010": 449000,
+                    "2011": 443500
+                }
+            }
+        }
+    },
+    "УАЗ": {
+        "brand_median_price_by_years": {
+            "2011": 310000,
+            "2021": 949000,
+            "2010": 278000,
+            "2015": 529000,
+            "2016": 639000,
+            "2012": 435000,
+            "2017": 719000,
+            "2019": 740000,
+            "2018": 700000,
+            "2014": 500000,
+            "2013": 283000,
+            "2020": 850000
+        },
+        "brand_quart75_price": 949000,
+        "models": {
+            "Pickup": {
+                "model_quart75_price": 949000,
+                "model_median_price_by_years": {
+                    "2011": 310000,
+                    "2021": 949000,
+                    "2010": 278000,
+                    "2015": 529000,
+                    "2016": 639000,
+                    "2012": 435000,
+                    "2017": 719000,
+                    "2019": 740000,
+                    "2018": 700000,
+                    "2014": 500000,
+                    "2013": 283000,
+                    "2020": 850000
+                }
+            }
+        }
+    }
+}
